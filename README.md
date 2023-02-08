@@ -12,7 +12,4 @@ Rely on an input.csv file, specifying all the necessary input info
 
 General Workflow:
 
-![General Workflow:](Diagrams/General Workflow.png?raw=true "Title")
-
-
-![General Workflow:](https://github.com/hhusseinoff/DC_Creation/Diagrams/"General Workflow".png?raw=true)
+![General Workflow:](https://github.com/hhusseinoff/DC_Creation/blob/main/Diagrams/General%20Workflow.png)
