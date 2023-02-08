@@ -1,0 +1,2 @@
+VCenter,VMResourcePool,VMDatastore,VMFolder,VMTemplate,VLAN,AD_OU,AD_Server,SCCMCollection,SCCMDrive,XDController,XDHypervisor,XDCatalog,XDDeliveryGroup,Domain,VMName
+vcentername.address.domain,RESOURCE_CLUSTER_NAME,Auto,VM_FOLDER_NAME,VM_TEMPLATE_NAME,NETWORK_ADAPTER_NAME,"OU=MachineType1,OU=STD,OU=E1,OU=VDI,OU=Test,OU=Something,OU=Something,DC=AD_NETBIOSNAME,DC=DOMAINNAME,DC=DOMAIN",AD_NETBIOSNAME.DOMAINNAME.DOMAIN,SCCM_Collection_Name,SCCMSiteCode:\,XD_ControllerName,XD_HypervisorName,XD_CatalogName,XD_DeliveryGroupName,AD_NETBIOSNAME,VM_Name
