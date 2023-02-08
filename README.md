@@ -12,6 +12,7 @@ Rely on an input.csv file, specifying all the necessary input info
 
 General Workflow:
 
-To Do: Add more detailed info..
-
 ![General Workflow:](https://github.com/hhusseinoff/DC_Creation/blob/main/Diagrams/General%20Workflow.png)
+
+
+To Do: Add more detailed info..
